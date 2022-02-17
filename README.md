@@ -1,5 +1,5 @@
 # MIPS-Assembly-Program_MARS
-A MIPS assembly program written using the MIPS MARS simulator to read N numbers stored in consecutive memory locations. and sort them in ascending order and store the sorted numbers in a different set of memory locations. \
+A MIPS assembly program written using the MIPS MARS simulator to read N numbers stored in consecutive memory locations. and sort them in ascending order and store the sorted numbers in a different set of memory locations.
 Inputs to the code:\
 * N numbers
 * Starting memory address X of the input numbers
